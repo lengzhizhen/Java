@@ -1,0 +1,8 @@
+1.网站New repository新建一个库
+2.复制该秘钥
+3.点击git create respository here
+4.点击git commic---master进行提交
+5.点击git synchronization--manage--remote
+6.remote写master,url和push url均粘贴刚刚复制的秘钥
+7.putty key选择已经有的putty_ecdsa_private.ppk秘钥
+8.最后push一下
